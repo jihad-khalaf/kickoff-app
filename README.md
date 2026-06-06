@@ -4,11 +4,6 @@
 
 Kickoff is a football tracking web application built with ReactJS as part of CSCI390 Web Programming (Phase 2). It displays live match scores, played matches, upcoming fixtures, player statistics, football news & highlights, and a contact form. The app uses React Router DOM for client-side navigation between pages.
 
-## Live Demo
-
-> Add your deployed link here after hosting on Vercel / Netlify / GitHub Pages  
-> Example: `https://kickoff-app.vercel.app`
-
 ## Technologies Used
 
 - **ReactJS** (v19) with Vite
